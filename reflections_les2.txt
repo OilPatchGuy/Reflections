@@ -1,2 +1,4 @@
 When you initialise a repository it creates an empty container in which you need add data.
 Staging srea is like a holding area. It is thee stage between the working directory and the repository. It contains the items that are in line to be commited.
+How can you use the staging area to make sure you have one commit per logical change?
+You add the files per logical change one at a time into the staging area
