@@ -1,0 +1,2 @@
+When you initialise a repository it creates an empty container in which you need add data.
+Staging srea is like a holding area. It is thee stage between the working directory and the repository. It contains the items that are in line to be commited.
