@@ -1,0 +1,8 @@
+By having the the two portions that differ, it was easy to spot what the difference is.
+The git log gave a good idea of what was in the repository
+You can then use git diff to see what was added.
+You can debug by using check-out. But note check-out has its own complications. The item you checked out last will become the latest commit. Git has ways
+around this. Watch out for it.
+
+How do I want to use Git:
+Use it for version control of course
