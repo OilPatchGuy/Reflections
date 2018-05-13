@@ -1,1 +1,8 @@
 Repositories get pushed into git hub using the command git push RemoteRepositoryName LocalRepositoryName
+
+Que: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are used to carry out GitHub to GitHub copying. When you are copying someone else's repository it is advisable to
+use fork instead of clone. 
+Cloning is also copying github repository but this time to your local directory.
+Branching can be created in a repository to reflect a different branch in the development of the document. For example if different 
+collaborating on a document they could form branches etc.
