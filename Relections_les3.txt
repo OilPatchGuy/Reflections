@@ -1,0 +1,1 @@
+Repositories get pushed into git hub using the command git push RemoteRepositoryName LocalRepositoryName
