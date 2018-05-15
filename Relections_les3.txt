@@ -6,3 +6,11 @@ use fork instead of clone.
 Cloning is also copying github repository but this time to your local directory.
 Branching can be created in a repository to reflect a different branch in the development of the document. For example if different 
 collaborating on a document they could form branches etc.
+
+Git fetch can be used to get a copy of the repository in github, when you do not want to immediately merge it with your master.
+For example you want to get the latest copy of what is in github before you go and work offline. You can merge the contents that you
+have fetched rom github with your master as follows
+git merge master origin/master.  This command combined with git fetch has the same effect as git pull origin master.
+
+Conflicts may arise. When they do resolve them by accepting/implimenting the changes you want in the relevant files. Then
+add, commit and push to be up to date with github
