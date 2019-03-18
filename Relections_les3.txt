@@ -14,3 +14,6 @@ git merge master origin/master.  This command combined with git fetch has the sa
 
 Conflicts may arise. When they do resolve them by accepting/implimenting the changes you want in the relevant files. Then
 add, commit and push to be up to date with github
+
+Pull request is used for collaboration. You use a pull request when you want your collaborators to look at a your modifications before you merge it into master. 
+After issues resloved you can then merge into master
