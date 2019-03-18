@@ -6,7 +6,9 @@ When to create a branch: 1. When I am testing out a new idea. 2. When I am tryin
 
 How diagrams help: The diagrams help in tracing the path of new branches. Isolated branches become very clear.
 
-Que: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Que: What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges manually?
 
 Ans: Git automatically merges when there are no conflicts, saving sustantial time. However when there are conflicts, 
 git requires manual update to avoid spurious automatic update/guessing of intended change by git.
+
+Encoding changed in github from windows-1252 to UTF-8.
